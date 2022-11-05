@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a rel="me" href="https://mastodon.social/@gundersen">Mastodon</a>
+    
+
 <!--
 **mariusGundersen/mariusGundersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
